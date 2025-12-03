@@ -1,0 +1,11 @@
+{
+    "token": telegram token,
+    "blacklist": [],
+    "message_send": "Message succesful send",
+    "forum_id": FORUM ID,
+    "message_send_blacklist": "Sorry, you in blacklist. Cant send any message.",
+    "message_send_wait": "Please, wait a bit",
+    "blocked_message": "You have been blocked.",
+    "unblocked_message": "You have been unblocked."
+
+}
